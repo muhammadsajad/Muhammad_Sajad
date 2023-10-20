@@ -29,5 +29,6 @@ in PostCOVID-19 Era ," Sensors 2023, 23, 6837. doi:10.3390/s23156837.
 [2023]](https://doi.org/10.3390/s23156837)
 
 ## CONFERENCES AND SEMINARS
-**International Conference on Electrical, Communication, and Computer Engineering (ICECCE)**  [ Swat, Pakistan, 24/07/2019 – 25/07/2019 ]
+**International Conference on Electrical, Communication, and Computer Engineering (ICECCE)** <br />
+[ Swat, Pakistan, 24/07/2019 – 25/07/2019 ]
 Presented My research work.
