@@ -25,4 +25,5 @@ Date of birth: 23/06/1991 Gender: Male
 
 [Imran Shafi, Muhammad Sajad, Anum Fatima, Daniel Gavilanes Aray, Vivían Lipari , Isabel de la
 Torre Diez , Imran Ashraf ," Teeth Lesion Detection Using Deep Learning and Internet of Things
-in PostCOVID-19 Era ," Sensors 2023, 23, 6837. doi:10.3390/s23156837][2023]](https://doi.org/10.3390/s23156837)
+in PostCOVID-19 Era ," Sensors 2023, 23, 6837. doi:10.3390/s23156837.
+[2023]](https://doi.org/10.3390/s23156837)
