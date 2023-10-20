@@ -80,11 +80,10 @@ Python Programming / Tensorflow Framework / Tensorflow Keras Framework
 - Python for Everybody Specialization ----- University of Michigan
 - Structuring Machine Learning Projects ----- deeplearning.ai
 - Sequence Models (Continue) ----deeplearning.ai
-- TensorFlow: Data and Deployment Specialization (Continue) ----- deeplearning.ai
+- TensorFlow: Data and Deployment Specialization (Continue) ----deeplearning.ai
 
 
-## LANGUAGE SKILLS
-***
+## LANGUAGE SKILLS ***
 Mother tongue(s): **Pashto** <br/>
 **Other language(s):** <br/>
 **English** <br/>
