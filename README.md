@@ -7,11 +7,11 @@ Date of birth: 23/06/1991 Gender: Male
 
 
 ## Education
-MS Computer Science, Abasyn University Islamabad Campus, Pakistan
-[ 08/05/2017 – 18/05/2019 ]
-CGPA 3.53/4.0
+### MS Computer Science, Abasyn University Islamabad Campus, Pakistan
+\n [ 08/05/2017 – 18/05/2019 ]
+\n CGPA 3.53/4.0
 Major Subjects:
-• Machine Learning
-• Advance Digital Image Processing
-• Advance Data Mining
-• Advance Research Methods and Quantitative Tools
+- Machine Learning
+- Advance Digital Image Processing
+- Advance Data Mining
+- Advance Research Methods and Quantitative Tools
