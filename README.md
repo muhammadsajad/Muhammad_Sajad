@@ -7,7 +7,7 @@ Date of birth: 23/06/1991 Gender: Male
 
 
 ## Education
-### MS Computer Science, Abasyn University Islamabad Campus, Pakistan 
+**MS Computer Science, Abasyn University Islamabad Campus, Pakistan**
 
 [ 08/05/2017 – 18/05/2019 ]
 
