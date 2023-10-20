@@ -6,7 +6,7 @@ Date of birth: 23/06/1991 Gender: Male
 - **Home**: Gul Berg Town Mohallah Yaqoob Khan Kass Koroona Mardan, Pakistan, 23200 Mardan (Pakistan)
 
 
-## Education <br />
+## Education 
 ********
 **MS Computer Science, Abasyn University Islamabad Campus, Pakistan** <br />
 [ 08/05/2017 – 18/05/2019 ] <br />
