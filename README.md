@@ -7,6 +7,7 @@ Date of birth: 23/06/1991 Gender: Male
 
 
 ## Education
+***
 **MS Computer Science, Abasyn University Islamabad Campus, Pakistan** <br />
 [ 08/05/2017 – 18/05/2019 ] <br />
 **CGPA 3.53/4.0** <br />
@@ -15,7 +16,7 @@ Date of birth: 23/06/1991 Gender: Male
 - Advance Digital Image Processing
 - Advance Data Mining
 - Advanced Research Methods and Quantitative Tools
-  
+
 ## Publications
 [M. Sajad, I. Shafi and J. Ahmad, "Automatic Lesion Detection in Periapical X-rays," 2019 International Conference on Electrical, Communication, and Computer Engineering (ICECCE), Swat, Pakistan, 2019, pp. 1-6, doi: 10.1109/ICECCE47252.2019.8940661.
 [2019]](https://ieeexplore.ieee.org/abstract/document/8940661)
