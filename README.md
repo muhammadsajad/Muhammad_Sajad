@@ -22,6 +22,7 @@ Date of birth: 23/06/1991 Gender: Male
 ## Publications
 [M. Sajad, I. Shafi and J. Ahmad, "Automatic Lesion Detection in Periapical X-rays," 2019 International Conference on Electrical, Communication, and Computer Engineering (ICECCE), Swat, Pakistan, 2019, pp. 1-6, doi: 10.1109/ICECCE47252.2019.8940661.
 [2019]](https://ieeexplore.ieee.org/abstract/document/8940661)
+
 [Imran Shafi, Muhammad Sajad, Anum Fatima, Daniel Gavilanes Aray, Vivían Lipari , Isabel de la
 Torre Diez , Imran Ashraf ," Teeth Lesion Detection Using Deep Learning and Internet of Things
-in PostCOVID-19 Era ," Sensors 2023, 23, 6837. doi:10.3390/s23156837][2023](https://doi.org/10.3390/s23156837)
+in PostCOVID-19 Era ," Sensors 2023, 23, 6837. doi:10.3390/s23156837][2023]](https://doi.org/10.3390/s23156837)
