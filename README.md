@@ -91,7 +91,8 @@ Mother tongue(s): **Pashto** <br/>
 |SPOKEN PRODUCTION C1 | SPOKEN INTERACTION C1| <br/>
 **Urdu** <br/>
 |LISTENING C2 | READING C2 | WRITING C2| <br/>
-|SPOKEN PRODUCTION C2 | SPOKEN INTERACTION C2|
+|SPOKEN PRODUCTION C2 | SPOKEN INTERACTION C2| <br/>
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
 
 
