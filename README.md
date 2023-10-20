@@ -46,5 +46,49 @@ Dr. Imran Shafi presented the Workshop, and the contents were:
 - Implementation strategies in Matlab.
 - Mathematical modelling of neurons and their interlink in the intra/interlayers.
 - Pre-processing, Modelling and simulation, and post-processing in Matlab using practical examples.
-- Introduction and hands-on session for Deep learning using convolutional neural networks. 
+- Introduction and hands-on session for Deep learning using convolutional neural networks.
+<br />
+## PROJECTS
+***
+**Image Classifier - Create My Own Image Classifier** <br/>
+The project involved building an image classification application using pre-trained deep convolutional networks.
+**Link:** [https://confirm.udacity.com/D4KCHPUZ](https://confirm.udacity.com/D4KCHPUZ)
+<br/>
+## DATASET
+***
+**Periapical X-rays Data set. Kaggle.** <br />
+[2021 – Current] <br />
+This dataset was gathered from the Armed Forces Institute of Dentistry Rawalpindi (AFID) in Pakistan. Due to the laborious and time-consuming nature of labeling, only 534 periapical X-rays were labelled by skilled radiologists and dentists. However, we plan to release additional versions with a larger number of X-rays in the near future. <br/>
+**Link:** [https://doi.org/10.34740/KAGGLE/DSV/2664831](https://doi.org/10.34740/KAGGLE/DSV/2664831)
+<br/>
+## DIGITAL SKILLS
+***
+Python Programming / Tensorflow Framework / Tensorflow Keras Framework 
+<br/>
+## CERTIFICATIONS
+***
+**Online:**
+- AI for Medicine Specialization (Continue) -------- deeplearning.ai
+- TensorFlow Developer Professional Certificate ------ deeplearning.ai
+- AI Programming with Python Nanodegree, Udacity
+- Neural Networks and Deep Learning --- deeplearning.ai
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization--deeplearning.ai
+- Crash Course on Python ----- Google
+- Python for Everybody Specialization ----- University of Michigan
+- Structuring Machine Learning Projects ----- deeplearning.ai
+- Sequence Models (Continue) ----deeplearning.ai
+- TensorFlow: Data and Deployment Specialization (Continue) ----- deeplearning.ai
+<br/>
+## LANGUAGE SKILLS
+***
+Mother tongue(s): **Pashto** <br/>
+**Other language(s):** <br/>
+**English** <br/>
+LISTENING C1 READING C1 WRITING C1 <br/>
+SPOKEN PRODUCTION C1 SPOKEN INTERACTION C1 <br/>
+**Urdu** <br/>
+LISTENING C2 READING C2 WRITING C2
+SPOKEN PRODUCTION C2 SPOKEN INTERACTION C2
+
+
 
