@@ -1,6 +1,4 @@
 # add the following to _config.yml file
-title: Muhammad Sajad
 logo: assests/sajad.jpg
-
 remote_theme: pages-themes/minimal@v0.2.0
 
