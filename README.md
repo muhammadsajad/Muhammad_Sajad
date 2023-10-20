@@ -11,10 +11,14 @@ Date of birth: 23/06/1991 Gender: Male
 
 [ 08/05/2017 – 18/05/2019 ]
 
-CGPA 3.53/4.0
+**CGPA 3.53/4.0**
 
-Major Subjects:
+**Major Subjects:**
 - Machine Learning
 - Advance Digital Image Processing
 - Advance Data Mining
-- Advance Research Methods and Quantitative Tools
+- Advanced Research Methods and Quantitative Tools
+
+## Publications
+[M. Sajad, I. Shafi and J. Ahmad, "Automatic Lesion Detection in Periapical X-rays," 2019 International Conference on Electrical, Communication, and Computer Engineering (ICECCE), Swat, Pakistan, 2019, pp. 1-6, doi: 10.1109/ICECCE47252.2019.8940661.
+[2019]](https://ieeexplore.ieee.org/abstract/document/8940661)
