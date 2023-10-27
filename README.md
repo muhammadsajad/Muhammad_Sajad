@@ -35,7 +35,7 @@ Presented My research work.
 
 ## WORKSHOP
 ***
-**Modeling and Simulation Using Artificial Neural Networks Organized By Department of Mechanical Engineering, College of Electrical and Mechanical engineering, NUST, Peshawar Road, Rawalpindi, Pakistan** <br />
+**Modeling and Simulation Using Artificial Neural Networks Organized By Department of Mechanical Engineering, College of Electrical and Mechanical Engineering, NUST, Peshawar Road, Rawalpindi, Pakistan** <br />
 [22/05/2017] <br />
 Dr. Imran Shafi presented the Workshop, and the contents were:
 - Artificial intelligence paradigm, motivation, and application areas.
@@ -104,10 +104,10 @@ Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficien
       Cell: +92-323-8554569 <br />
 
 2) Dr Aqib Perwaiz, PhD <br />
-      Director Research &Development <br />
-      CEME, National University of Sciences and Technology <br />
-      Islamabad, Pakistan <br />
-      Office Ph: +92 (0) 51-54444700 <br />
-      Email: aqib.perwaiz@ceme.nust.edu.pk <br />
+> Director Research &Development <br />
+> CEME, National University of Sciences and Technology <br />
+> Islamabad, Pakistan <br />
+> Office Ph: +92 (0) 51-54444700 <br />
+> Email: aqib.perwaiz@ceme.nust.edu.pk <br />
    
 
