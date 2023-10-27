@@ -100,7 +100,7 @@ Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficien
 > College of Electrical & Mechanical Engineering (CEME), <br />
 > National University of Sciences & Technology (NUST) <br />
 > **Office Phone:** 051-54444008 <br />
-> **Email:** imranshafi@ceme.nust.edu.pk <br />
+> **Email:** [imranshafi@ceme.nust.edu.pk](mailto:imranshafi@ceme.nust.edu.pk) <br />
 > **Cell:** +92-323-8554569 <br />
 
 2) **Dr Aqib Perwaiz, PhD** <br />
