@@ -94,5 +94,20 @@ Mother tongue(s): **Pashto** <br/>
 |SPOKEN PRODUCTION C2 | SPOKEN INTERACTION C2| <br/>
 Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
 
+## References
+1) Dr. Imran Shafi
+   Professor
+   College of Electrical & Mechanical Engineering (CEME),              
+   National University of Sciences & Technology (NUST)
+   Office Phone: 051-54444008
+   Email: imranshafi@ceme.nust.edu.pk
+   Cell: +92-323-8554569
 
+2) Dr Aqib Perwaiz, PhD
+   Director Research &Development  
+   CEME, National University of Sciences and Technology
+   Islamabad, Pakistan
+   Office Ph: +92 (0) 51-54444700
+   Email: aqib.perwaiz@ceme.nust.edu.pk
+   
 
