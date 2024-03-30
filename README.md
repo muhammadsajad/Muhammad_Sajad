@@ -51,6 +51,13 @@ Dr. Imran Shafi presented the Workshop, and the contents were:
 
 ## PROJECTS
 ***
+**Face Recognition Attendance System** <br/>
+Using the power of face recognition technology and the simplicity of tkinter, I've developed an app where students can effortlessly mark their attendance just by facing the camera upon entering the class. 📸💻 <br />
+Perfect for any school, college, or organization, this application is super light and lightning-fast. ⚡️ Plus, it's incredibly user-friendly! You don't need to be a tech whiz to navigate it smoothly. 🚀 <br />
+The best part? You don't even need a fancy GPU to run it! 💪 Ideal for institutions with a tight budget, it can be easily installed on any basic machine while still delivering top-notch accuracy. 🔍 <br />
+Say goodbye to tedious attendance tracking – let technology do the work for you! streamline your attendance process effortlessly. <br />
+**Link:** [Face Recognition Attendance System](https://youtu.be/_Y9ZmRDrKcQ?si=wg7ryELT7nB5yhuX) <br/>
+
 **Periapical X-ray Classifier** <br/>
 Built an app for the prediction of five types of lesions in periapical X-rays, namely:
  1) Primary Endo with Secondary Perio
