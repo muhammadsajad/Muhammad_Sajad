@@ -51,6 +51,16 @@ Dr. Imran Shafi presented the Workshop, and the contents were:
 
 ## PROJECTS
 ***
+**Periapical X-ray Classifier** <br/>
+Built an app for the prediction of five types of lesions in periapical X-rays, namely:
+ 1) Primary Endo with Secondary Perio
+ 2) Primary Endodontic Lesion 
+3) Primary Perio with Secondary End 
+4) Primary Periodontal Lesion 
+5) True Combined Lesions.
+The project involved building an image classification application using pre-trained deep convolutional networks. <br />
+**Link:** [Periapical X-ray Classifier](https://youtu.be/QuSJeuWmB44?si=J6DbSxa1B-1vjZhB)
+
 **Image Classifier - Create My Own Image Classifier** <br/>
 The project involved building an image classification application using pre-trained deep convolutional networks. <br />
 **Link:** [https://confirm.udacity.com/D4KCHPUZ](https://confirm.udacity.com/D4KCHPUZ)
