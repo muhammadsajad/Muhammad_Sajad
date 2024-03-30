@@ -59,7 +59,7 @@ Built an app for the prediction of five types of lesions in periapical X-rays, n
 4) Primary Periodontal Lesion 
 5) True Combined Lesions.
 The project involved building an image classification application using pre-trained deep convolutional networks. <br />
-**Link:** [Periapical X-ray Classifier](https://youtu.be/QuSJeuWmB44?si=J6DbSxa1B-1vjZhB)
+**Link:** [Periapical X-ray Classifier](https://youtu.be/QuSJeuWmB44?si=J6DbSxa1B-1vjZhB) <br/>
 
 **Image Classifier - Create My Own Image Classifier** <br/>
 The project involved building an image classification application using pre-trained deep convolutional networks. <br />
