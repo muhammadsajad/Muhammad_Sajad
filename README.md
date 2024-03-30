@@ -53,7 +53,8 @@ Dr. Imran Shafi presented the Workshop, and the contents were:
 ***
 **Image Classifier - Create My Own Image Classifier** <br/>
 The project involved building an image classification application using pre-trained deep convolutional networks.
-**Link:** [https://confirm.udacity.com/D4KCHPUZ](https://confirm.udacity.com/D4KCHPUZ)
+**Link:**
+[https://confirm.udacity.com/D4KCHPUZ](https://confirm.udacity.com/D4KCHPUZ)
 
 
 ## DATASET
