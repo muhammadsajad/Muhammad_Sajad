@@ -120,7 +120,7 @@ Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficien
 > **Email:** [imranshafi@ceme.nust.edu.pk](mailto:imranshafi@ceme.nust.edu.pk) <br />
 > **Cell:** +92-323-8554569 <br />
 
-2) **Dr Aqib Perwaiz, PhD** <br />
+2) **Dr Aqib Perwaiz** <br />
 > Director Research &Development <br />
 > CEME, National University of Sciences and Technology <br />
 > Islamabad, Pakistan <br />
